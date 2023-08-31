@@ -1,18 +1,24 @@
 
 import time
 import board
+import touchio
 import pwmio
 from adafruit_motor import servo
 
 
 pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
 
-my_servo = servo.Servo(pwm)
+
+my_servo = servo.ContinuousServo(pwm, min_pulse = 500, max_pulse = 2500)
+
+touch_A4 = touchio.TouchIn(board.A4)  
+touch_A5 = touchio.TouchIn(board.A5)  
 
 while True:
-    for angle in range(0, 180, 5):  
-        my_servo.angle = angle
-        time.sleep(0.05)
-    for angle in range(180, 0, -5): 
-        my_servo.angle = angle
-        time.sleep(0.05)
+    my_servo.throttle = 0.0
+    while touch_A4.value:
+        my_servo.throttle = 1.0
+        time.sleep(.5)
+    while touch_A5.value:
+        my_servo.throttle = -1.0
+        time.sleep(.5)
