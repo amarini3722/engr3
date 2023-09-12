@@ -6,12 +6,12 @@ import pwmio
 from adafruit_motor import servo
 
 
-pwm = pwmio.PWMOut(board.A2, duty_cycle=2 ** 15, frequency=50)
+pwm = pwmio.PWMOut(board.D9, duty_cycle=2 ** 15, frequency=50)
 
 
 my_servo = servo.ContinuousServo(pwm, min_pulse = 500, max_pulse = 2500)
 
-touch_A4 = touchio.TouchIn(board.A4)  
+touch_A4 = touchio.TouchIn(board.A1)  
 touch_A5 = touchio.TouchIn(board.A5)  
 
 while True:
