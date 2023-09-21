@@ -2,19 +2,16 @@
 This repository will actually serve as an aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Hello_CircuitPython](#Hello_CircuitPython)
+* [RGB_Neopixel](#RDBNeopixel)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## Hello_CircuitPython
+## RGB Neopixel
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+The goal of this assignment was to make a neopixel on a metro express board fade through the rainbow.
 
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
