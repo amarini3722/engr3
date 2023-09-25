@@ -13,14 +13,20 @@ This repository will actually serve as an aid to help you get started with your 
 ### Description & Code Snippets
 The goal of this assignment was to make a neopixel on a metro express board fade through the rainbow.
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
+ Main part of the code:
 
 ```python
-Code goes here
+def rainbow_cycle(wait):
+    for color in range(255):
+        for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+            pixel_index = (pixel * 256 // len(pixels)) + color * 5
+            pixels[pixel] = colorwheel(pixel_index & 255)
+        pixels.show()
+        time.sleep(wait)
 
 ```
-
-**Lastly, please end this section with a link to your code or file.**  
+<a href="https://github.com/amarini3722/engr3/blob/main/Neopixel.py">Neopixel Full Code</a>
+ 
 
 ### Evidence
 Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
