@@ -177,3 +177,28 @@ https://cvilleschools.onshape.com/documents/a6df4e5b9d7ef08699352238/w/4e10da8a1
 
 ### Reflection
 This assignment was used to refesh us on how to mirror a section of a part. During this assignment I was challanged by just using onshape. We hadn't used onshape for 4 months and i was just getting back into the swing of things. The assignment as a whole was easy but remembering all the tools was hard.
+
+
+
+
+
+## Onshape_Assignment_Template
+
+### Assignment Description
+
+This assignment was to make a part using variables then change the variables and not have to change anything else. This assignment will help with preperation to the onshape certification test.
+
+### Evidence
+![Part Studio 1 (3)](https://github.com/amarini3722/engr3/assets/143545265/88170959-766c-4f79-b418-54597182467e)
+![Part Studio 1 (4)](https://github.com/amarini3722/engr3/assets/143545265/e9b4c4cd-dfaf-4f1d-bc06-2c765390577c)
+![Part Studio 1 (5)](https://github.com/amarini3722/engr3/assets/143545265/750e4fba-b468-4f5c-993a-413fe9418faf)
+![Part Studio 1 (6)](https://github.com/amarini3722/engr3/assets/143545265/6f1c9a5c-fbf4-4041-8c92-6444e55d1d6b)
+
+
+### Part Link 
+
+(https://cvilleschools.onshape.com/documents/e77695125b30882798ee5d92/w/e12ee28b973256b09b71f289/e/1e0d2f184e0db118447975c2?renderMode=0&uiState=653187b0d111681fa4dd1bc8)
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
