@@ -201,4 +201,4 @@ This assignment was to make a part using variables then change the variables and
 
 ### Reflection
 
-This assignment took me a bit of time to complete because of how I constrained things and improperly used variables. The
+This assignment took me a bit of time to complete because of how I constrained things and improperly used variables. The way I improperly constrained thing was I constrained par of it only to a part using a variable making it so that the part constarined to the variable changed when it shouldn't have. With the variables part of messing up, I used variables in place of something that sould have just been 130mm assuming it sould be the variable.
