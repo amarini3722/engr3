@@ -53,11 +53,9 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
+Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.   
+ Spicy part: Now control the servo with 2 buttons. 
+ The servo only moves if you are pushing a button.
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
@@ -86,16 +84,16 @@ For example, I use an Arduino Uno to represent my Circuitpython device but write
 Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+This assignment was easy in that the first code was straight forward. The hard part of this was that it was our first assignment really using Circuit python instead of arduino. The wiring for this was easy because it was basically identical to the assignment like this last year.
 
 
-## CircuitPython_LCD
+## CircuitPython_Distance Sensor
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+Use the HC-SR04 to measure the distance to an object and print that out to your serial monitor or LCD in cm.
+ Next, you will get the neopixel to turn red when your object is less than 5cm, and green when its 35cm.  Ignore the blue and 20cm for now, let's just keep it simple.
+ For your final version of this code, you'll smoothly shift the color of the onboard neopixel, corresponding to the distance, according to the graphic below.
+  (Neopixel should stay red when below 5cm and green when above 35cm)
 
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
@@ -125,20 +123,18 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+The callange of this assingment for me was getting the distance sensor to messure the right distances. At first my distance sensor was backward making the colors go in the worng order. I fixed this by changing the order in which the colors went. I had other minor problems but wiring wise it was pretty easy.
 
 
 
 
 
-## NextAssignment
+## CircuitPython_Motor Control
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
-
+ Wire up a 6v battery pack to this circuit with a motor.
+ Write Python code to make the motor speed up and slow down, based on input from a potentiometer.
+  
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
@@ -153,6 +149,10 @@ Code goes here
 ### Wiring
 [tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
 For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
+
+
+### Reflection
+This assignment was the hardest wiring assignment but the easiest coding assignment. My code was a total of 6 lines and took maybe 5 minutes to figure out and write. The wireing took my a while to do thought and was dangerous, as I learned when checking Jai's.
 
 
 
