@@ -69,14 +69,13 @@ Code goes here
 ![image](https://github.com/amarini3722/engr3/assets/143545265/5d356108-eecc-4d27-a0bc-6a4d88dceb2f)
 
 
-GIF credit goes to [Raffi Chen]
+Image credit goes to [Raffi Chen]
 
 
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+![image](https://github.com/amarini3722/engr3/assets/143545265/c2e1acbf-5542-4421-9c69-de811ba4d051)
+
 
 ### Reflection
 This assignment was easy in that the first code was straight forward. The hard part of this was that it was our first assignment really using Circuit python instead of arduino. The wiring for this was easy because it was basically identical to the assignment like this last year.
@@ -112,9 +111,8 @@ Video credit goes to [Raffi Chen]
 
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+![image](https://github.com/amarini3722/engr3/assets/143545265/a23ca787-6809-4680-9f95-6d824d519601)
+
 
 
 ### Reflection
@@ -150,8 +148,8 @@ https://github.com/amarini3722/engr3/assets/143545265/9e37e78b-ea60-4f6a-99fd-ba
 
 Video credit goes to [Raffi Chen]
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
+![image](https://github.com/amarini3722/engr3/assets/143545265/4862d20c-f2ed-4b43-95a4-555abaf82cd6)
+
 
 
 ### Reflection
