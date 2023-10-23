@@ -101,13 +101,10 @@ Code goes here
 
 
 ### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
+![image](https://github.com/amarini3722/engr3/assets/143545265/b8640087-d638-47fb-8e37-7837e910d761)
 
 
-And here is how you should give image credit to someone if you use their work:
-
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+Video credit goes to [Raffi Chen]
 
 
 
@@ -141,6 +138,9 @@ Code goes here
 
 ### Evidence
 
+![image](https://github.com/amarini3722/engr3/assets/143545265/c3958567-4e33-4134-a87a-b9f4aae1b859)
+
+Video credit goes to [Raffi Chen]
 ### Wiring
 [tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
 For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
