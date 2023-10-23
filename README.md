@@ -54,11 +54,18 @@ Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-Code goes here
+while True:
+    my_servo.throttle = 0.0
+    while touch_A4.value:
+        my_servo.throttle = 1.0
+        time.sleep(.5)
+    while touch_A5.value:
+        my_servo.throttle = -1.0
+        time.sleep(.5)
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+(https://github.com/amarini3722/engr3/blob/main/CompacitiveTouch.py)
 
 
 ### Evidence
@@ -88,11 +95,21 @@ Use the HC-SR04 to measure the distance to an object and print that out to your 
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-Code goes here
+while True:
+    try:
+        print((sonar.distance,))
+        if sonar.distance < 5:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = (255, 0,0)
+                pixels.show()
+        if sonar.distance > 5 and sonar.distance < 20:
+            for pixel in range(len(pixels)):  # pylint: disable=consider-using-enumerate
+                pixels[pixel] = (255-(sonar.distance - 5 / 15 * 255), 0, (sonar.distance - 5 / 15 * 255))
+                pixels.show()
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+https://github.com/amarini3722/engr3/blob/main/Ultra.py
 
 
 ### Evidence
@@ -127,11 +144,18 @@ The callange of this assingment for me was getting the distance sensor to messur
   Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
 
 ```python
-Code goes here
+import board
+import analogio
+
+motor=analogio.AnalogOut(board.A0)
+pot=analogio.AnalogIn(board.A1)
+while True:
+    speed=pot.value
+    motor.value=speed
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+https://github.com/amarini3722/engr3/blob/main/Motor%20control.py  
 
 ### Evidence
 
