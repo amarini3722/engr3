@@ -66,14 +66,10 @@ Code goes here
 
 
 ### Evidence
-Pictures / Gifs of your finished work should go here.  You need to communicate what your thing does.
-For making a GIF, I recommend [ezgif.com](https://www.ezgif.com) Remember you can insert pictures using Markdown or HTML to insert an image.
+![image](https://github.com/amarini3722/engr3/assets/143545265/5d356108-eecc-4d27-a0bc-6a4d88dceb2f)
 
 
-
-Here is how you should give image credit to someone if you use their work:
-
-Image credit goes to [Rick A](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+GIF credit goes to [Raffi Chen]
 
 
 
