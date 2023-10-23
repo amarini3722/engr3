@@ -29,7 +29,11 @@ def rainbow_cycle(wait):
  
 
 ### Evidence
-[Uploading engr3_README.md at main · Raffi-Chen_engr3.html…]()
+
+
+https://github.com/amarini3722/engr3/assets/143545265/85e68845-ae11-4838-9962-1a6713d2d29a
+
+
 
 
 Video credit goes to [Raffi Chen]
