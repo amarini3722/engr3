@@ -72,14 +72,14 @@ while True:
 ![image](https://github.com/amarini3722/engr3/assets/143545265/5d356108-eecc-4d27-a0bc-6a4d88dceb2f)
 
 
-Image credit goes to [Raffi Chen]
+Image credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 
 
 
 ### Wiring
 ![image](https://github.com/amarini3722/engr3/assets/143545265/c2e1acbf-5542-4421-9c69-de811ba4d051)
 
-Image credit goes to [Raffi Chen]
+Image credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 ### Reflection
 This assignment was easy in that the first code was straight forward. The hard part of this was that it was our first assignment really using Circuit python instead of arduino. The wiring for this was easy because it was basically identical to the assignment like this last year.
 
@@ -119,14 +119,14 @@ https://github.com/amarini3722/engr3/assets/143545265/31a06f2c-854a-45c7-a8d0-5f
 
 
 
-Video credit goes to [Raffi Chen]
+Video credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 
 
 
 ### Wiring
 ![image](https://github.com/amarini3722/engr3/assets/143545265/a23ca787-6809-4680-9f95-6d824d519601)
 
-Image credit goes to [Raffi Chen]
+Image credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 
 ### Reflection
 The callange of this assingment for me was getting the distance sensor to messure the right distances. At first my distance sensor was backward making the colors go in the worng order. I fixed this by changing the order in which the colors went. I had other minor problems but wiring wise it was pretty easy.
@@ -166,11 +166,11 @@ https://github.com/amarini3722/engr3/assets/143545265/9e37e78b-ea60-4f6a-99fd-ba
 
 
 
-Video credit goes to [Raffi Chen]
+Video credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 ### Wiring
 ![image](https://github.com/amarini3722/engr3/assets/143545265/4862d20c-f2ed-4b43-95a4-555abaf82cd6)
 
-Image credit goes to [Raffi Chen]
+Image credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 
 ### Reflection
 This assignment was the hardest wiring assignment but the easiest coding assignment. My code was a total of 6 lines and took maybe 5 minutes to figure out and write. The wireing took my a while to do thought and was dangerous, as I learned when checking Jai's.
