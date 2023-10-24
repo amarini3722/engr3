@@ -36,7 +36,7 @@ https://github.com/amarini3722/engr3/assets/143545265/85e68845-ae11-4838-9962-1a
 
 
 
-Video credit goes to [Raffi Chen]
+Video credit goes to <a href="https://github.com/Raffi-Chen/engr3/blob/main/README.md">Raffi Chen</a>
 
 
 
