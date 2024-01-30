@@ -203,7 +203,7 @@ This assignment was used to refesh us on how to mirror a section of a part. Duri
 
 
 
-## Onshape_Assignment_Template
+## Onshape_swing arm
 
 ### Assignment Description
 
@@ -219,6 +219,27 @@ This assignment was to make a part using variables then change the variables and
 ### Part Link 
 
 (https://cvilleschools.onshape.com/documents/e77695125b30882798ee5d92/w/e12ee28b973256b09b71f289/e/1e0d2f184e0db118447975c2?renderMode=0&uiState=653187b0d111681fa4dd1bc8)
+
+### Reflection
+
+This assignment took me a bit of time to complete because of how I constrained things and improperly used variables. The way I improperly constrained thing was I constrained par of it only to a part using a variable making it so that the part constarined to the variable changed when it shouldn't have. With the variables part of messing up, I used variables in place of something that sould have just been 130mm assuming it sould be the variable.
+
+## Single Part
+
+### Assignment Description
+
+In this assignment we made a part in onshape using one part. 
+
+### Evidence
+![Part Studio 1 (9)](https://github.com/amarini3722/engr3/assets/143545265/6802c795-dc4c-40b6-b25d-2995c150d582)
+![Part Studio 1 (8)](https://github.com/amarini3722/engr3/assets/143545265/b9e1ece6-9463-4703-9a7b-d712b53df740)
+![Part Studio 1 (7)](https://github.com/amarini3722/engr3/assets/143545265/85b0a25b-353c-4d5b-82ca-ee00d8544c36)
+
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/11cfd990354aff25bfddd24b/w/f6ff819511c0b150fdb21b5f/e/b370cdbb0ab728283bfd1cdd?renderMode=0&uiState=65b96098889e4819010d44ca 
+
 
 ### Reflection
 
