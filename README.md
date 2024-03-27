@@ -323,3 +323,82 @@ https://cvilleschools.onshape.com/documents/94788d94c830d28bb7beaa1e/w/419daf09a
 ### Reflection
 
 This assignment wasn't systemically that difficult but me being me I had to make it challenging to automate. Since the claw has three arms, it makes a triangle while fully closed, this makes it extremely hard to constrain and make it not break physics.
+
+## CircuitPython_Rotory Encoder and LCD
+
+### Description & Code Snippets
+This assignment aimed to create a menu-controlled traffic light using an Arduino, rotary encoder, and the onboard neopixel. The menu needed to have items for stop, go, and caution and be able to switch to the corresponding light color on the neopixel.
+
+### Evidence
+
+![IMG_2014](https://github.com/amarini3722/engr3/assets/143545265/9042a85a-f485-44a8-a7d9-d72878a52133)
+
+### Code
+
+# Rotary Encodare light thingksf;ja             # [lines 1-7] Import and set up neccesary libraries
+import time
+import rotaryio
+import neopixel
+import board
+from lcd import LCD
+from i2c_pcf8574_interface import I2CPCF8574Interface
+from digitalio import DigitalInOut, Direction, Pull
+
+
+encoder = rotaryio.IncrementalEncoder(board.D4, board.D3) # [lines 9-24] Start all Variables and define INs and OUTs
+last_position = 0
+btn = DigitalInOut(board.D2)
+btn.direction = Direction.INPUT
+btn.pull = Pull.UP
+state = 0
+Button = 1
+led = neopixel.NeoPixel(board.NEOPIXEL, 1)
+led.brightness = .3
+i2c = board.I2C()
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+
+
+
+
+
+while True:                #[lines 27-38] Set up varible for encoder, limit it to >0 and <3
+    position = encoder.position
+    if position != last_position:
+        state = position % 3
+        if state == 0:     #[lines 39-47] Print to LCD based on Encoder Var
+            lcd.clear()
+            lcd.set_cursor_pos(0, 0) # [39
+            lcd.print("Don't stop")
+        elif state == 1:
+            lcd.clear()
+            lcd.set_cursor_pos(0, 0)
+            lcd.print("Speed up")
+        elif state == 2:
+            lcd.clear()
+            lcd.set_cursor_pos(0, 0)
+            lcd.print("Slam on brakes")
+    if btn.value == 0 and Button == 1: #[lines 48-63] If the button is pressed make the Encoder Var match the lights.
+        print("buttion")
+        if state == 0: 
+            print('g')
+            led[0] = (0, 255, 0)
+        elif state == 1:
+            print('y')
+            led[0] = (255, 234, 0)
+        elif state == 2:
+            print('r')
+            led[0] = (250, 0, 0)
+        Button = 0       #[lines 64-68] Resets and delay
+    if btn.value == 1:
+        time.sleep(.1)
+        Button = 1
+    last_position = position
+
+### Wiring
+![Rotaryencoder](https://github.com/amarini3722/engr3/assets/143545265/4b1061be-196d-4dd9-ad2d-699a1c209815)
+
+
+
+
+### Reflection
+This assignment took a very long time because the way Josh and I did our code and the way I did my wiring took a block period and a normal period to do the code. And my wiring and files may it tough to figure out on my computer.
