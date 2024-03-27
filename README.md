@@ -243,4 +243,83 @@ https://cvilleschools.onshape.com/documents/11cfd990354aff25bfddd24b/w/f6ff81951
 
 ### Reflection
 
-This assignment took me a bit of time to complete because of how I constrained things and improperly used variables. The way I improperly constrained thing was I constrained par of it only to a part using a variable making it so that the part constarined to the variable changed when it shouldn't have. With the variables part of messing up, I used variables in place of something that sould have just been 130mm assuming it sould be the variable.
+This assignment was very simple and I could have done it in my sleep.
+
+## Multi-Part Mic Stand 
+
+### Assignment Description
+
+The goal of this assignment is to create a mic stand using multiple parts in one studio. This helped improve the skill of not over complicating one part.
+
+### Evidence
+
+![Assembly 1 (1)](https://github.com/amarini3722/engr3/assets/143545265/a4357d58-9b24-4d34-a1ff-bf7ecc83a849)
+
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/e3c8e4a46bb2b0622bb98b0d/w/1e9719c8c68a330245434468/e/456d2fc448eae0fb06ac3172?renderMode=0&uiState=66048c7802e5fa795f217885 
+
+### Reflection
+
+This assignment brought challanges in that to get the part that holds the mic right we had to do math. The entire holder part had to be one standard length but the challange in that is that there was a curve that needed math to be done to get it right.
+
+## Vice Gripper 
+
+### Assignment Description
+
+The goal of this assignment use mates to create a pair of vice grippers.
+
+### Evidence
+
+![Assembly 1 (2)](https://github.com/amarini3722/engr3/assets/143545265/5bee737e-1ea4-4481-b857-289b223d6413)
+
+
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/950395349c2f1dc3a4fd068b/w/18f3c684ac0569541f9903ef/e/bda98a0d4ff3c9fb5f7a8a86?renderMode=0&uiState=6604a0d8b5ef12669cf11cb8
+
+### Reflection
+
+This part was challenging because of the use of multipule different mates. Before this assignment I had never used mates to create an actual working tool just stick things together.
+
+## MP Cylinder
+
+### Assignment Description
+
+The goal of this assignment to create a cylinder assembly using multiple parts within one studio. This was important for practicing how to make multiple parts from their shared dimensions
+
+### Evidence
+
+![cylinder parts](https://github.com/amarini3722/engr3/assets/143545265/f2ac4aa4-377e-497f-9b45-28ecd1537317)
+
+
+
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/2ef8d220cb8c6486bf08d296/w/81768b571ea41ad76d1646cb/e/357bdec38c70cf79315c586f?renderMode=0&uiState=6604a2f006751e77d445f7a1
+
+### Reflection
+
+This part was over all simple, but it took a good bit of time due to the fact that it was a lot of work and I like to do stuff the hardest way possible. This is a bad habit that needs to change.
+
+## Gripper Claw
+
+### Assignment Description
+The goal of this assignment was to create a robot arm that could function with one actuator and could be animated in onshape.
+### Evidence
+
+![Assembly 1 (3)](https://github.com/amarini3722/engr3/assets/143545265/e601f40f-649a-41ed-8e80-d5f2b309fa0a)
+![Assembly 1 (4)](https://github.com/amarini3722/engr3/assets/143545265/3b859063-1e49-49cb-97ec-55bced766561)
+[Drawing 1.pdf](https://github.com/amarini3722/engr3/files/14782006/Drawing.1.pdf)
+
+
+
+### Part Link 
+https://cvilleschools.onshape.com/documents/94788d94c830d28bb7beaa1e/w/419daf09a373cedad7df4a53/e/213a7ec62ab125b08a097c8d
+
+### Reflection
+
+This assignment wasn't systemically that difficult but me being me I had to make it challenging to automate. Since the claw has three arms, it makes a triangle while fully closed, this makes it extremely hard to constrain and make it not break physics.
