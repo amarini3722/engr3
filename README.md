@@ -335,6 +335,7 @@ This assignment aimed to create a menu-controlled traffic light using an Arduino
 
 ### Code
 
+(https://github.com/amarini3722/engr3/blob/main/Rotary.py)
 
 ### Wiring
 ![Rotaryencoder](https://github.com/amarini3722/engr3/assets/143545265/4b1061be-196d-4dd9-ad2d-699a1c209815)
@@ -358,6 +359,7 @@ The goal of this assignment was to program a stepper motor to rotate until it to
 
 ### Code
 
+(https://github.com/amarini3722/engr3/blob/main/Clickythingy.py)
 
 ### Wiring
 ![Steppermotor](https://github.com/amarini3722/engr3/assets/143545265/b5f8a39f-3811-4dc5-a396-729e3f17d46a)
@@ -378,8 +380,7 @@ The goal of this assignment was to program a IR sensor to do what it does.
 
 ### Code
 
-
-
+(https://github.com/amarini3722/engr3/blob/main/irsensor.py)
 
 ### Reflection
 This assignment was overall simple but made eaiser by the fact that I did a project using IR sensors last year.
