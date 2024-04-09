@@ -243,7 +243,7 @@ https://cvilleschools.onshape.com/documents/11cfd990354aff25bfddd24b/w/f6ff81951
 
 ### Reflection
 
-This assignment was very simple and I could have done it in my sleep.
+This assignment was very simple yet for some unknown reason I decided to turn my brain off and struggle. I forgot how to make a slanted cut out around the screw hole. After I found the swich to turn on my brain I helped Jai finish her part.
 
 ## Multi-Part Mic Stand 
 
@@ -365,7 +365,7 @@ The goal of this assignment was to program a stepper motor to rotate until it to
 ![Steppermotor](https://github.com/amarini3722/engr3/assets/143545265/b5f8a39f-3811-4dc5-a396-729e3f17d46a)
 
 ### Reflection
-This assignment was fairly simple. The hardest part was waiting for someone to be done with there assignment so I could take their motor and limit switch.
+This assignment was fairly simple. The hardest part was waiting for someone to be done with there assignment so I could take their motor and limit switch. I wish for this assignment the slides didn't give us so much of the assignment for free.
 
 
 ## CircuitPython_IR Sensor
@@ -383,4 +383,4 @@ The goal of this assignment was to program a IR sensor to do what it does.
 (https://github.com/amarini3722/engr3/blob/main/irsensor.py)
 
 ### Reflection
-This assignment was overall simple but made eaiser by the fact that I did a project using IR sensors last year.
+This assignment was overall simple but made eaiser by the fact that I did a project using IR sensors last year. The wiring was simple and used a total of 3 wires and a ir sensor.
