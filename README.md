@@ -348,7 +348,7 @@ https://github.com/amarini3722/engr3/assets/143545265/37182c2b-9212-479e-ad7c-db
 
 
 ### Reflection
-This assignment took a very long time because the way Josh and I did our code and the way I did my wiring took a block period and a normal period to do the code. And my wiring and files may it tough to figure out on my computer.
+This assignment took a very long time because the way Josh and I did our code and the way I did my wiring took a block period and a normal period to do the code. The way we did our code was a about 30 to 40 more lines than we needed, this was becasue we were fully stumped so we decided to look at Kaz's code for help.(I have now learned my lesson not to look at Kaz's code for any reason even for confusing myself) And my wiring and files may it tough to figure out on my computer.
 
 
 ## CircuitPython_Stepper Motor + Limit Switch
@@ -373,7 +373,7 @@ https://github.com/amarini3722/engr3/assets/143545265/b2aab9d1-72cb-45df-8873-b0
 ![Steppermotor](https://github.com/amarini3722/engr3/assets/143545265/b5f8a39f-3811-4dc5-a396-729e3f17d46a)
 
 ### Reflection
-This assignment was fairly simple. The hardest part was waiting for someone to be done with there assignment so I could take their motor and limit switch. I wish for this assignment the slides didn't give us so much of the assignment for free.
+This assignment was fairly simple seeing that the code wasn't too tricky. When recording the video I needed to get josh to help me because the limit switch would always get knocked out of the way rather than let the stepper motor push it down fully. I wish for this assignment the slides didn't give us so much of the assignment for free it made the assignment feel more like a reading comprehension assignment than a problem solving one. 
 
 
 ## CircuitPython_IR Sensor
@@ -395,4 +395,4 @@ https://github.com/amarini3722/engr3/assets/143545265/db0d61c6-5820-41dc-ab80-a5
 (https://github.com/amarini3722/engr3/blob/main/irsensor.py)
 
 ### Reflection
-This assignment was overall simple but made eaiser by the fact that I did a project using IR sensors last year. The wiring was simple and used a total of 3 wires and a ir sensor.
+This assignment was overall simple but made eaiser by the fact that I did a project using IR sensors last year. The wiring was simple and used a total of 3 wires and a ir sensor. I am glad I was able to do this assignment so quickly because it was the assignment we did a week I was gone so it made catching up much quicker and less painful.
