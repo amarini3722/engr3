@@ -331,7 +331,11 @@ This assignment aimed to create a menu-controlled traffic light using an Arduino
 
 ### Evidence
 
-![IMG_2014](https://github.com/amarini3722/engr3/assets/143545265/9042a85a-f485-44a8-a7d9-d72878a52133)
+
+
+https://github.com/amarini3722/engr3/assets/143545265/37182c2b-9212-479e-ad7c-dbc3b2918d7b
+
+
 
 ### Code
 
