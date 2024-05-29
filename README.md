@@ -361,6 +361,10 @@ The goal of this assignment was to program a stepper motor to rotate until it to
 ![IMG_2020](https://github.com/amarini3722/engr3/assets/143545265/b9dd283e-325d-46b6-8fc4-c6f52de5188e)
 
 
+
+https://github.com/amarini3722/engr3/assets/143545265/b2aab9d1-72cb-45df-8873-b015490497ed
+
+
 ### Code
 
 (https://github.com/amarini3722/engr3/blob/main/Clickythingy.py)
@@ -380,6 +384,10 @@ The goal of this assignment was to program a IR sensor to do what it does.
 ### Evidence
 
 ![IMG_2022](https://github.com/amarini3722/engr3/assets/143545265/b212f9d5-411f-465c-8a49-23e762a78aea)
+
+
+
+https://github.com/amarini3722/engr3/assets/143545265/db0d61c6-5820-41dc-ab80-a5032111ae1e
 
 
 ### Code
